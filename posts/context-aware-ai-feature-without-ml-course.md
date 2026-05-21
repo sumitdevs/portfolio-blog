@@ -4,6 +4,7 @@ description: "How I built a context-aware AI Dictionary feature using embeddings
 date: "2026-03-10"
 author: "Sumit"
 tags: ["AI", "Vector Search", "Node.js", "PostgreSQL", "Chrome Extension"]
+image: "https://ik.imagekit.io/hk2o7q2xu/posts/post1.jpg"
 ---
 
 # I Added a Context-Aware AI Feature Without a Machine Learning Course
